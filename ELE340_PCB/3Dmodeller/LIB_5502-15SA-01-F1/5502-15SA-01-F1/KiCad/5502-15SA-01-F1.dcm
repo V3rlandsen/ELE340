@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 5502-15SA-01-F1
+D D Sub Connector, Standard, Receptacle, 5502, 15 Contacts, DA, Solder
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/SCMP/SCMP-S-A0011490128/SCMP-S-A0011490128-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0
+$ENDCMP
+#
+#End Doc Library

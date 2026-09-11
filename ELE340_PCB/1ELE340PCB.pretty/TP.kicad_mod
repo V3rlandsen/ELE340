@@ -1,0 +1,98 @@
+(footprint "TP"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "20-313143")
+	(tags "Test Point")
+	(property "Reference" "TP**"
+		(at 0 -2 0)
+		(layer "F.SilkS")
+		(uuid "470db082-f553-42df-812e-1e2f3b76659a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TP"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "62ddcbd2-5564-4a79-bfea-4b5c8ef314c5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7ce85081-cbea-4b6f-bcbb-85e8ee66f455")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5638da95-44b5-4fda-a596-6cbc9ae6f3d1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 0)
+		(end 0 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "718c1845-6f2b-4f30-9d45-ac8c22f64b1b")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "4cf3c469-1983-4be8-bc66-0eea094c52e3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.8 2.8)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a964a62f-503c-4489-ab2c-ae685551c53e")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3Dmodeller/TP.stp"
+		(offset
+			(xyz 0 0 3.9)
+		)
+		(scale
+			(xyz 1.29 1.29 1.29)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

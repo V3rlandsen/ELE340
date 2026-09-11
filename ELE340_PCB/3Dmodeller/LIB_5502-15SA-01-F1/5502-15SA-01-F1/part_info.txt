@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=5502-15SA-01-F1
+PartCategory=Connector
+PackageCategory=Other
+PinCount=17
+Version=2.1
+Released=2024-01-25 10:08:22
+Downloaded=2025-10-17 11:23:51
+3D=Y

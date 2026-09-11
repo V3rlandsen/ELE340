@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '5502_15SA_01_F1'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Multicomp Pro", "5502-15SA-01-F1" (!) = "", "550215SA01F1", "Other", "", "", "", "", "D Sub Connector, Standard, Receptacle, 5502, 15 Contacts, DA, Solder", "https://4donline.ihs.com/images/VipMasterIC/IC/SCMP/SCMP-S-A0011490128/SCMP-S-A0011490128-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0", "11.05 mm"
+END_PART
+
+END.

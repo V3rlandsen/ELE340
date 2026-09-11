@@ -1,0 +1,19 @@
+.5502-15SA-01-F1 :1 ;D Sub Connector, Standard, Receptacle, 5502, 15 Contacts, DA, Solder
+"550215SA01F1"
+*STM J
+*NGS
+*PNM 1=1 2=2 3=3 4=4 5=5 6=6 7=7 8=8 9=9 10=10 11=11 12=12 13=13 14=14 15=15 16=MH1 17=MH2
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6" 7="7" 8="8" 9="9" 10="10" 11="11" 12="12" 13="13" 14="14" 15="15" 16="MH1" 17="MH2"
+*MXP 17
+*DFN 5502-15SA-01-F1
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (5502-15SA-01-F1)
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://4donline.ihs.com/images/VipMasterIC/IC/SCMP/SCMP-S-A0011490128/SCMP-S-A0011490128-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0)
+~!Height (11.05mm)
+~!3D_Model (5502-15SA-01-F1)
+"5502-15SA-01-F1"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 13.1!U 14.1!U 15.1!U 16.1!U 17.1!U 
